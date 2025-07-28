@@ -1,6 +1,6 @@
-#variable
-name = "sudiksha"
-age = 13
+#print sum
+a = 100
+b = 200
+sum = a + b 
+print (sum)
 
-print("my name is : ", name)
-print("my age is :", age)
