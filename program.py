@@ -1,2 +1,6 @@
-#to print
-print("I am Sudiksha. This is my first time coding python.")
+#variable
+name = "sudiksha"
+age = 13
+
+print("my name is : ", name)
+print("my age is :", age)
